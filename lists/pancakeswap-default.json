@@ -112,6 +112,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": “Sewiecoin”,
+      "symbol": “STEW”,
+      "address": "0x919914c245fd0bcbb213e391099efcd2b3d444aa",
+      "chainId": 56,
+      "decimals": 18,  
+      "logoURI": "https://teal-wooden-butterfly-230.mypinata.cloud/ipfs/bafkreifndwprutbh3ncfwhzinxdnjy7xzh4slvy7y4soe5ughic66jquu4"
     }
   ]
+
 }
